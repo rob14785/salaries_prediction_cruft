@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/rob14785/mlops-project-template.git",
+  "commit": "ce45aeecede7dcb0465799d90efefc7d5b349e2e",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "Salaries Prediction Cruft",
+      "project_slug": "salaries_prediction_cruft",
+      "package_name": "salaries_prediction_cruft",
+      "author_name": "Your Name",
+      "author_email": "your.email@example.com",
+      "python_version": "3.11",
+      "version": "0.1.0",
+      "description": "Reusable MLOps project",
+      "_template": "https://github.com/rob14785/mlops-project-template.git",
+      "_commit": "ce45aeecede7dcb0465799d90efefc7d5b349e2e"
+    }
+  },
+  "directory": null
+}
