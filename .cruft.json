@@ -1,6 +1,6 @@
 {
   "template": "https://github.com/rob14785/mlops-project-template.git",
-  "commit": "ce45aeecede7dcb0465799d90efefc7d5b349e2e",
+  "commit": "9540947d1a375b780b06fb9dadf08e1cecf0ce1b",
   "checkout": null,
   "context": {
     "cookiecutter": {
@@ -13,7 +13,7 @@
       "version": "0.1.0",
       "description": "Reusable MLOps project",
       "_template": "https://github.com/rob14785/mlops-project-template.git",
-      "_commit": "ce45aeecede7dcb0465799d90efefc7d5b349e2e"
+      "_commit": "9540947d1a375b780b06fb9dadf08e1cecf0ce1b"
     }
   },
   "directory": null
